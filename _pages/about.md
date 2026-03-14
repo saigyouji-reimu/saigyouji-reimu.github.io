@@ -17,19 +17,19 @@ I am now a fourth-year Ph.D. student advised by Prof. [Xin Zhang](https://xinpl.
 ## Publications
 
 1. *Oracle-Free Repair Synthesis for Floating-Point Programs*  
-Daming Zou, Yuchen Gu, **Yuanfeng Shi**, Mingzhe Wang, Yingfei Xiong, Zhendong Su  
+Daming Zou, Yuchen Gu, **Yuanfeng Shi**, Mingzhe Wang, Yingfei Xiong, Zhendong Su
 ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla)), October 2024.
 
-2. *Learning Abstraction Selection for Bayesian Program Analysis*  
-Yifan Zhang, **Yuanfeng Shi**, and Xin Zhang  
+3. *Learning Abstraction Selection for Bayesian Program Analysis*  
+Yifan Zhang, **Yuanfeng Shi**, and Xin Zhang
 ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2024](https://2024.splashcon.org/track/splash-2024-oopsla)), October 2024. [[DOI](https://doi.org/10.1145/3649845)] [[Artifact](https://doi.org/10.5281/zenodo.10823509)]
 
-3. *On Abstraction Refinement for Bayesian Program Analysis*  
+4. *On Abstraction Refinement for Bayesian Program Analysis*  
 **Yuanfeng Shi**, Yifan Zhang, and Xin Zhang  
 ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2025](https://2025.splashcon.org/track/OOPSLA)), October 2025.
 [[DOI](https://doi.org/10.1145/3763166)] [[Artifact](https://doi.org/10.5281/zenodo.16917600)]
 
-4. *Abstract Interpretation with Confidence: Quantifying the Precision of Dataflow Analysis with Probabilities*  
-**Yuanfeng Shi**, Ziyue Jin, and Xin Zhang  
+5. *Abstract Interpretation with Confidence: Quantifying the Precision of Dataflow Analysis with Probabilities*  
+**Yuanfeng Shi**, Ziyue Jin, and Xin Zhang
 ACM SIGPLAN Conference on Programming Language Design and Implementation. ([PLDI 2026](https://pldi26.sigplan.org/)), June 2026.
 (To Appear)
