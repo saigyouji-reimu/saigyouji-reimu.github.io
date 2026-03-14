@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Yuanfeng Shi's Homepage
+# title: "Yuanfeng Shi's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
